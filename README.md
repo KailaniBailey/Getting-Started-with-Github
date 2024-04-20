@@ -1,6 +1,3 @@
-# Main-Squeeze-Mini
-Just a tiny repository for tiny things
-By
-Kailani Brionna Bailey @KailaniBailey on Github
-
-This is the markdown file in this repository.
+# Getting Started with Github
+For the IBM Data Science Professional Certificate<br>
+By @KailaniBailey on Github
